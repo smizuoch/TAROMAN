@@ -1,7 +1,7 @@
 # TAROMAN — Okamoto-Style Life & Art Helper
 
 **TAROMAN** is a tiny *header-only* C99 / C++98 library that drops a pocket-sized  
-岡本太郎 into your program: shout “芸術は爆発だ!”, sling ~90 authentic quotes,  
+岡本太郎 into your program: shout “芸術は爆発だ!”, sling ~70 authentic quotes,  
 and let your code _seriously, desperately play_. No build system gymnastics,  
 no external deps—just `#include "taroman.h"` and compile.  
 The code is released under the MIT License; see the bundled `LICENSE` file
