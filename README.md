@@ -11,7 +11,7 @@ The code is released under the MIT License; see the bundled `LICENSE` file
 ## Features
 * **Single header, zero dependency.** Copy `taroman.h` or add the repo as a Git submodule.
 * **Pure C API** yet perfectly usable from C++.  
-* **~90 curated Okamoto Tarō quotes.**  
+* **~70 curated Okamoto Tarō quotes.**  
 * **Battle helpers** (`taroman_combat_kaiju()`) inspired by NHK’s 2022 mini-series  
   “TAROMAN ― 岡本太郎式特撮活劇.”
 * MIT-licensed, suitable for closed- or open-source projects.
