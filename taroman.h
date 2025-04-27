@@ -132,7 +132,7 @@ TAROMAN_INLINE void taroman_explode_art(void)
 
 TAROMAN_INLINE void taroman_combat_kaiju(const char* name)
 {
-    printf("タローマンは奇獣「%s」と対峙している！\\n", name ? name : "謎の存在");
+    printf("タローマンは奇獣「%s」と対峙している！\n", name ? name : "謎の存在");
 }
 
 TAROMAN_INLINE void taroman_shout_random_quote(void)
